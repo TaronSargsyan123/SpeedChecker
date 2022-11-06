@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
     Button qButton4;
     TextView statistic;
     int wrongCount = 0;
+
+
     int rightCount = 0;
     int sum;
     private static final Integer COUNT = 30;
